@@ -1,1 +1,0 @@
-The code in TicTacToe.java is to play a TicTacToe Game over the console.
