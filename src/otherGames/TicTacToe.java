@@ -120,4 +120,10 @@ public class TicTacToe {
         }
         scanner.close();
     }
+    public void randomUnnecessaryLoop(){
+        while(true){
+            System.out.println("Oh no it's a infinity loop");
+        }
+    }
+
 }
