@@ -1,1 +1,2 @@
 The code in NumberGuessingGame.java is to play a NumberGuessingGame over the console.
+The game can be restarted after one round.
